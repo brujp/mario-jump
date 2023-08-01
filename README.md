@@ -17,5 +17,7 @@ Para iniciar um novo jogo, atualize a página.
 ## Próximas features
 
 🌀 Botão para reiniciar o jogo.
+
 🆙 Implementar um 'score' para saber a pontuação (quantos tubos foram ultrapassados).
+
 ❌ Colocar uma tela de 'game over' quando o Mario encostar nos tubos.
