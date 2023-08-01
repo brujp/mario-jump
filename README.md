@@ -7,7 +7,9 @@ https://www.youtube.com/watch?v=r9buAwVBDhA
 ## Como o jogo funciona?
 
 Basicamente, precisamos pular os tubos utilizando qualquer tecla do teclado.
+
 Caso você encoste nos tubos, o jogo se encerra.
+
 Para iniciar um novo jogo, atualize a página.
 
 ## Imagem "in-game"
